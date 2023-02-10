@@ -1,6 +1,6 @@
 # Trillo | Flexbox layout practice website | Second project
 
-### You can checkout it on https://trillo-13reath.netlify.app/
+### You can checkout it on [DEMO-TRILLO](https://trillo-13reath.netlify.app)
 
 ## In order for this to work you need to follow these steps:
 
